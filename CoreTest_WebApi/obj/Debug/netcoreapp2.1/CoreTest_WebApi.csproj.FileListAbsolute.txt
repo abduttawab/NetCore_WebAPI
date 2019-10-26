@@ -1,0 +1,14 @@
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\bin\Debug\netcoreapp2.1\CoreTest_WebApi.deps.json
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\bin\Debug\netcoreapp2.1\CoreTest_WebApi.runtimeconfig.json
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\bin\Debug\netcoreapp2.1\CoreTest_WebApi.runtimeconfig.dev.json
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\bin\Debug\netcoreapp2.1\CoreTest_WebApi.dll
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\bin\Debug\netcoreapp2.1\CoreTest_WebApi.pdb
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.csprojAssemblyReference.cache
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.RazorAssemblyInfo.cache
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.RazorAssemblyInfo.cs
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.AssemblyInfoInputs.cache
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.AssemblyInfo.cs
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.dll
+C:\Users\Abdut-Tawab\source\repos\CoreTest_WebApi\CoreTest_WebApi\obj\Debug\netcoreapp2.1\CoreTest_WebApi.pdb
